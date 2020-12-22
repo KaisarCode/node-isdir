@@ -1,6 +1,6 @@
 {
   "name": "kc-isdir",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[nodejs] Check if path is directory.",
   "main": "index.js",
   "repository": {
